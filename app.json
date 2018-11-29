@@ -5,14 +5,14 @@
   "env": {
     "VER": {
        "description": " gost version",
-       "value": "2.5"
+       "value": "2.6.1"
      }, 
     "MODE": {
        "description": "ws or mws",
        "value": "mws"
      }
   },
-  "website": "https://github.com/wangyi2005/gost-heroku",
-  "repository": "https://github.com/wangyi2005/gost-heroku",
+  "website": "https://github.com/devwebcode/gost-heroku",
+  "repository": "https://github.com/devwebcode/gost-heroku",
   "stack": "container"
  }
